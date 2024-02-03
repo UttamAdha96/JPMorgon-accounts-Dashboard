@@ -7,4 +7,5 @@ Created Dashboard for JPMorgan Chase &amp; Co account sales data from Forage:
 
 Certificate: 
 
-https://drive.google.com/file/d/1DgqYWN4WqRY-ygoX2yWMF3jsYZp0_mpW/view
+[JPMorgan Chase & Co._completion_certificate.pdf](https://github.com/UttamAdha96/JPMorgon-accounts-Dashboard/files/14150014/JPMorgan.Chase.Co._completion_certificate.pdf)
+
